@@ -59,7 +59,7 @@ const SignUpPage = () => {
                 <div>
                   <h2 className="text-xl font-semibold">Create an Account</h2>
                   <p className="text-sm opacity-70">
-                    Join Chatter-Space and start your language learning adventure!
+                    Join Chatter-Space and make new friends globally!
                   </p>
                 </div>
 
@@ -181,7 +181,7 @@ const SignUpPage = () => {
 
             <div className="text-center space-y-3 mt-6">
               <h2 className="text-xl font-semibold">
-                Connect with language partners worldwide
+                Chat globally, learn naturally
               </h2>
               <p className="opacity-70">
                 Practice conversations, make friends, and improve your language
